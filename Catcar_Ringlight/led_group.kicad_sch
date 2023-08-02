@@ -6,7 +6,7 @@
 
   (title_block
     (title "LED Group")
-    (date "2023-07-18")
+    (date "2023-08-02")
     (rev "1.0")
     (company "xatLabs")
     (comment 1 "Julian Metzler")
@@ -258,7 +258,7 @@
     (uuid cea64b38-4284-424d-929c-33081991a1b8)
   )
 
-  (text "White LEDs: WW-WNA30TS-U1(M1)\nOrange LEDs: OSO5CAS3C1A"
+  (text "White LEDs: WW-WNA30TS-U1(M1)\nOrange LEDs: OSY5CAS3C1A"
     (at 124.46 107.95 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 96305ffd-e5f4-4178-81de-493fd3fbd468)
